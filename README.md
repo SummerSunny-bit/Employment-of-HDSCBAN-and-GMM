@@ -1,0 +1,2 @@
+# HDBSCAN-and-GMM-application-to-indentify-stellar-memberships
+This code forms the basis of my bachelor's thesis tiltled "Membership determination on stellar clusters using HDBSCAN and GMM". It includes the employment of both HDBSCAN and GMM after astrometric quality cuts, as well as provides theoretical isochrone fitting for PARSEC v1.2S/ v2.0, MIST/ BHAC15/ Dartmouth girds, combined with a MCMC sampler.
