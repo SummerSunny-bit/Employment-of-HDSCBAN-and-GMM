@@ -13,7 +13,8 @@ The structure is as follow.
                                   - manaully fetched PARSEC v2.0 Isochrones
                                   - BHAC15 and Dartmouth model grids through MADYS
 
-In order to use the code, you are required to have the requirements
+In order to use this code, you need to have astropy (see AstroPython_environment.ymal) and the respective pakges mentioned in my paper. In addition, each section of my code highlights the used packages.
+(https://github.com/timothydmorton/isochrones/tree/master, https://github.com/vsquicciarini/madys, https://github.com/mfouesneau/ezpadova/tree/master)
 
 # Attribution
 If you make use of this code or parts of this code, please reference this repository.
